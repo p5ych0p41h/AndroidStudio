@@ -1,1 +1,26 @@
-# AndroidStudio
+# УСТАНОВКА ANDROID STUDIO
+Ссылка: https://developer.android.com/studio
+
+![image](https://user-images.githubusercontent.com/75533543/227466097-39cda06f-08ba-4096-ac24-ae6972f4e6b5.png)
+![image](https://user-images.githubusercontent.com/75533543/227466144-06f17aef-358d-42e9-9892-90a5d136a391.png)
+![image](https://user-images.githubusercontent.com/75533543/227466158-58e7309e-41e5-4d1c-b479-714eecd6c5b7.png)
+![image](https://user-images.githubusercontent.com/75533543/227466169-f846ecce-e4d0-4439-b3a2-356572b1a265.png)
+![image](https://user-images.githubusercontent.com/75533543/227466196-e1b55f1a-9baa-4715-8a35-5d132f547c5b.png)
+![image](https://user-images.githubusercontent.com/75533543/227466213-fe855d78-e519-49fa-982c-dc8aceb9d090.png)
+![image](https://user-images.githubusercontent.com/75533543/227466243-5c329501-4f83-4408-9a84-0642c88a507e.png)
+![image](https://user-images.githubusercontent.com/75533543/227466259-a5ac2762-d4fa-4165-b096-ceeea4aaa29a.png)
+![image](https://user-images.githubusercontent.com/75533543/227466274-66f5e0dd-5b96-4d2d-b9bf-5b6be65d67d3.png)
+![image](https://user-images.githubusercontent.com/75533543/227466288-a5f426c6-3ae1-4f23-90a2-a4dca8044bb8.png)
+![image](https://user-images.githubusercontent.com/75533543/227466301-7a35bde2-ee58-4ffe-adab-c072dc496a05.png)
+![image](https://user-images.githubusercontent.com/75533543/227466316-846ff7ad-b476-4825-9fcc-6803be7a2958.png)
+![image](https://user-images.githubusercontent.com/75533543/227466333-bc7ad022-4daf-4109-8579-c8fccb5f8dac.png)
+![image](https://user-images.githubusercontent.com/75533543/227466348-28c934e6-a16b-4978-b969-df0410a4fc41.png)
+![image](https://user-images.githubusercontent.com/75533543/227466359-5643f279-39f4-46ef-8ad4-274c6ae8ee63.png)
+![image](https://user-images.githubusercontent.com/75533543/227466371-58780d73-70ad-4405-bf2f-8b2b9ce57fef.png)
+![image](https://user-images.githubusercontent.com/75533543/227466706-36921087-1d07-461b-bc1c-eea7c84e2473.png)
+![image](https://user-images.githubusercontent.com/75533543/227466953-677c4371-2dff-4e22-9658-0290789ec6ef.png)
+![image](https://user-images.githubusercontent.com/75533543/227467058-282dee0f-8194-4a33-a0e1-f3650338a948.png)
+![image](https://user-images.githubusercontent.com/75533543/227467238-f34e1c40-7e35-4719-81a0-c31955603a0e.png)
+![image](https://user-images.githubusercontent.com/75533543/227482504-b893f8e5-4a66-4c3e-90d0-e2b84eccb05f.png)
+![image](https://user-images.githubusercontent.com/75533543/227482605-93a1aad9-9b69-4137-937c-67cfbd4fbdce.png)
+![image](https://user-images.githubusercontent.com/75533543/227482678-4f227c18-57ee-4788-8afc-127910ce55e8.png)
